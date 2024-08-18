@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -e
+# set -e
 
 AR_RECORD_FILE=tmp.rf.$$
 ADR_RECORD_FILE=tmp.rf.$$
