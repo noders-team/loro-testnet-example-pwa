@@ -6,6 +6,7 @@ on:
     branches:
       - main
       - '*'
+  workflow_dispatch:
 
 env:
   CERC_REGISTRY_USER_KEY: ${{ secrets.CICD_LACONIC_USER_KEY }}
