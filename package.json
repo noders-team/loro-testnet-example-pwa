@@ -1,7 +1,7 @@
 {
   "private": true,
-  "name": "@noders/pwa-test-2",
-  "version": "0.1.26",
+  "name": "@noders/laconic-noders-registry-cli",
+  "version": ""0.2.4",
   "repository": "https://github.com/noders-team/loro-testnet-example-pwa",
   "scripts": {
     "dev": "next dev",
